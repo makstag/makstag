@@ -1,5 +1,3 @@
-<code>$ echo "Hello, ${USER:-world} 👋"</code>
-
 Hello and welcome to my profile page.
 ---
 
