@@ -1,3 +1,7 @@
+- 👋 Hi, I’m Maxim Titov
+- 👀 I’m interested in linux kernel, design patterns and the development of high-load systems.
+- 🌱 I’m Software Engineer.
+
 Hello and welcome to my profile page.
 ---
 
