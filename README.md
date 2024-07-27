@@ -22,6 +22,6 @@ My stack
 ![Lua](https://img.shields.io/badge/lua-%23013243.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=makstag&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=makstag&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=makstag&show_icons=true&theme=synthwave" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=makstag&layout=compact&theme=synthwave" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
 
