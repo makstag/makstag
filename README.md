@@ -25,9 +25,9 @@
 </h1>
 
 ![C++](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%23013243.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Assembly](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# ![Lua](https://img.shields.io/badge/lua-%23013243.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 <h1 align="center"> 
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
