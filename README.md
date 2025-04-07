@@ -2,11 +2,6 @@
  Welcome to my profile page </a> 
 </h1>
 
-- 👋 Hi, I’m Maks Titov
-- 👀 I’m interested in linux kernel, design patterns and the development of high-load systems.
-- 🌱 I’m Software Engineer.
-- 📫 mstitovforgit@gmail.com
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serpro69/serpro69/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serpro69/serpro69/output/github-contribution-grid-snake.svg">
