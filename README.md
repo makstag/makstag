@@ -13,10 +13,3 @@
 ![Assembly](https://img.shields.io/badge/assembly-3670A0?style=for-the-badge&logo=assembly&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h1 align="center"> 
-<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
- My Projects </a> 
-<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=makstag&repo=Mython&hide_border=true&border_radius=16&theme=dark#gh-dark-mode-only)](https://github.com/makstag/Mython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=makstag&repo=LinuxStuff&hide_border=true&border_radius=16&theme=dark#gh-dark-mode-only)](https://github.com/makstag/LinuxStuff)
